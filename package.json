@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/maksik2018/Webpack-installation/issues"
   },
-  "homepage": "https://github.com/maksik2018/Webpack-installation#readme",
+  "homepage": "https://github.com/maksik2018/Webpack-installation",
   "dependencies": {
     "handlebars": "^4.7.7"
   },
