@@ -20,7 +20,7 @@ window.onload = () => {
   const saveUser = document.getElementById("saveUser");
 
     nameInput.addEventListener('input', (e) => {
-      // console.log(e.target.value);
+      console.log(e.target.value);
       tmpUserNameState = e.target.value;
     });
     saveUser.addEventListener('click', (e) => {
